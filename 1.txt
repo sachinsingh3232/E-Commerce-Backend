@@ -1,0 +1,10 @@
+update password
+
+
+apis----
+
+Register Students
+get all subjects
+isEnrolled
+get all students
+get all absenties
